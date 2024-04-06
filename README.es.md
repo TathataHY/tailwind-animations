@@ -11,7 +11,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/midudev/tailwind-animations)
 ![GitHub Contributors](https://img.shields.io/github/contributors/midudev/tailwind-animations)
 
-![web](https://github.com/TathataHY/tailwind-animations/assets/86846618/6a98a9f1-dd21-4f62-80a0-9272b0592689)
+![web](https://github.com/TathataHY/tailwind-animations/assets/86846618/bff6f99c-c221-4cce-bf28-98b3868cda4b)
 
 ![Tailwind
 CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.1-blue?style=for-the-badge&logo=tailwind-css)
